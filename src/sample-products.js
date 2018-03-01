@@ -24,7 +24,7 @@ export const sampleProducts = {
     image: "https://www.msistone.com/images/colornames/Black-Space-Granite.jpg",
     notes:
       "Black Space granite from MSI brings together crisp white tones that contrast beautifully with the deep black veins and crystals.",
-    price: 160000,
+    price: 16050,
     category: 2
   },
 

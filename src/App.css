@@ -85,6 +85,10 @@ Home Page .home-form-container {
   opacity: 1;
 }
 
+.header ul {
+  padding: 0;
+}
+
 /* Inventory Page */
 
 .inventory {
@@ -170,7 +174,7 @@ Home Page .home-form-container {
     0% 100%
   );
   position: fixed;
-  width: 30vw;
+  width: 28vw;
   display: grid;
   grid-template-areas:
     "title"
@@ -229,16 +233,6 @@ Home Page .home-form-container {
 .count {
   position: relative;
 }
-
-/* .count-enter {
-  transition: all 0.25s ease;
-  position: relative;
-  transform: translateY(100%);
-}
-
-.count-enter-active {
-  transform: translateY(0);
-} */
 
 .count-leave {
   transition: all 0.25s ease-in;

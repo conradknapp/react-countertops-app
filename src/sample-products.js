@@ -5,7 +5,7 @@ export const sampleProducts = {
       "https://www.msistone.com/images/colornames/gradient/Carrara-White-Marble.jpg",
     notes:
       "Carrara White marble is one of the iconic luxury Italian marbles featuring shades of white and gray. Carrara marble slabs are offered in polished and honed finishes",
-    price: 11300,
+    price: 113.0,
     category: 1
   },
 
@@ -15,7 +15,7 @@ export const sampleProducts = {
       "https://www.msistone.com/images/colornames/Statuary-Venato-Marble.jpg",
     notes:
       "A sister stone to Carrara, statuary marble features a uniform background and light gray tones with distinctive and more dramatic veining.",
-    price: 12400,
+    price: 124.0,
     category: 2
   },
 
@@ -24,7 +24,7 @@ export const sampleProducts = {
     image: "https://www.msistone.com/images/colornames/Black-Space-Granite.jpg",
     notes:
       "Black Space granite from MSI brings together crisp white tones that contrast beautifully with the deep black veins and crystals.",
-    price: 16050,
+    price: 160.5,
     category: 2
   },
 
@@ -34,7 +34,7 @@ export const sampleProducts = {
       "https://www.msistone.com/images/colornames/Blanco-Perlato-Engineered-Marble.jpg",
     notes:
       "A soft white background with subtle flecks adding dimension and elegance",
-    price: 11100,
+    price: 111.0,
     category: 3
   },
 
@@ -43,7 +43,7 @@ export const sampleProducts = {
     image: "https://www.msistone.com/images/colornames/Blue-Bahia-Granite.jpg",
     notes:
       "Blue Bahia granite from Brazil features various shades of light blues and medium blues with slight variations and grains of gray and white.",
-    price: 12000,
+    price: 120.0,
     category: 1
   },
 
@@ -52,7 +52,7 @@ export const sampleProducts = {
     image: "https://www.msistone.com/images/colornames/Amadeus-Granite.jpg",
     notes:
       "Amadeus granite from Brazil is a dramatic sweeping blue granite of medium variation.",
-    price: 13050,
+    price: 130.5,
     category: 1
   }
 };
